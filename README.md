@@ -1,56 +1,9 @@
-# Olá, sou Arthur! ### ⚙️ GitHub Analytics
+# Arthur Valentim de Aguiar
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=arthurvaguiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvaguiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=arthurvaguiar&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
-<br />
+Desenvolvedor FullStack
 
---- ### 🏆 GitHub Profile Trophy:
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Valentim-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurvaguiar/)](https://www.linkedin.com/in/arthurvaguiar/) 
+[![Gmail Badge](https://img.shields.io/badge/-arthurvaguiar@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurvaguiar@gmail.com)](mailto:arthurvaguiar@gmail.com)
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=arthurvaguiar&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+Meu nome é Arthur Valentim, ou “art” (é como meus amigos me chamam). Sou desenvolvedor desde 2020.
 
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
